@@ -104,6 +104,13 @@ For detailed info list, check [features page](https://nvchad.com/docs/features)
 - Useful snippets with [friendly snippets](https://github.com/rafamadriz/friendly-snippets) + [LuaSnip](https://github.com/L3MON4D3/LuaSnip).
 - Popup mappings keysheet [whichkey.nvim](https://github.com/folke/which-key.nvim)
 
+## Setup
+macOS/Linux: git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
+Windows: git clone -b v2.0 https://github.com/NvChad/NvChad $HOME\AppData\Local\nvim --depth 1 && nvim
+
+See https://www.youtube.com/watch?v=Mtgo-nP_r8Y for more
+
+
 ## History
 
 - I (@siduck i.e creator of NvChad) in my initial days of learning to program wanted a lightweight IDE for writing code, I had a very low end system which was like 1.4ghz pentium + 4gb ram & HDD. I was into web dev stuff so many suggested me to use vscode but that thing was very heavy on my system, It took more ram than my browser! ( minimal ungoogled chromium ) so I never tried it again, sublime text was nice but the fear of using proprietary software XD for a linux user bugged me a lot. Then I tried doom-emacs which looked pretty but it was slow and I was lost within its docs, I tried lunarvim but too lazy to read the docs. Doom-emacs and lunarvim inspired me to make a config which is the prettiest + very fast and simple.
