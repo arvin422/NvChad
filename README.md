@@ -106,10 +106,13 @@ For detailed info list, check [features page](https://nvchad.com/docs/features)
 
 ## Setup
 - macOS/Linux:
+  
   git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
   
 - Windows:
+  
   git clone -b v2.0 https://github.com/NvChad/NvChad $HOME\AppData\Local\nvim --depth 1 && nvim
+
   
 - See https://www.youtube.com/watch?v=Mtgo-nP_r8Y for more
 
